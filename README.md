@@ -17,4 +17,4 @@ tensorflow-gpu 2.4.0
 
 "l=1" is mdl4ow
 
-run demo_salinas.py
+run SA_test.py
